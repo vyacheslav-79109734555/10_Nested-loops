@@ -13,5 +13,3 @@ while number != 0:
         max_number = meaning
     number = int(input('Введите число: '))
 print('Максимальная сумма цифр:', max_result, 'находиться в числе:', max_number)
-
-# **************************
