@@ -1,5 +1,3 @@
-
-
 while True:
     for attempt in range(1, 4):
         while True:
